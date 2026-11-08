@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/overeasy/commit/85885c6c61128d897124f795a833726115db7d3f",
       "git:hexsha": "85885c6c61128d897124f795a833726115db7d3f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.12"
     },
     {
