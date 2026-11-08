@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "modal-labs",
+  "repo": "overeasy",
+  "versions": [
+    {
+      "commit": "85885c6c61128d897124f795a833726115db7d3f",
+      "parsed_at": "2026-11-08T03:37:04.081590+00:00",
+      "tag": "v0.1.10",
+      "filetree": "filetree/85885c6c61128d897124f795a833726115db7d3f.nq.gz",
+      "blobs": [
+        "blob/ab03921b35ba5618ab6cf6800d863337984d9ad5.nq.gz",
+        "blob/6324d401a069f4020efcf0ff07442724b52f47c2.nq.gz",
+        "blob/ec12692c6c98fd363a86799323f8e2b16988f72b.nq.gz",
+        "blob/1dd41b6b1826b235a7700b26e4458a2cee99f7db.nq.gz",
+        "blob/18c88e186946ca848456dd2f1023fa1f05d9f886.nq.gz",
+        "blob/02641d9e5c3b26dbeea16c5d683c5fdaa9e667e7.nq.gz",
+        "blob/5d24ff14b48ce89c8b9e3865f120c8ea685630ea.nq.gz",
+        "blob/f8e3b0c5f3e99b0b1e403693db9cb6d05867055c.nq.gz",
+        "blob/3a5d1cbd97a71d2e38c59eeac634cbd5ec3bdf24.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
